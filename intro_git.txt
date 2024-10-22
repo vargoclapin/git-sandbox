@@ -1,0 +1,12 @@
+https://ue12-p24-git.readthedocs.io/en/main/1-01-git-local-nb.html
+ mkdir
+> code
+> . pour ouvrir où on est .. pour aller en arrière
+> git init
+> jupyter lab
+> echo modif >> fichier.xsl    un seul > pour écraser
+> git restore
+> git add (.) ajoute un fichier ou (tous ceux du dossier)
+> git commit
+> git log
+
